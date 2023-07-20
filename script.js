@@ -12,10 +12,4 @@ let last =document.querySelector('#form1 input[name="lname"]');
 		<input type="submit" value="Submit">
 	</form>
 	
-    <script type="text/javascript" src="./script.js">
-</script>
- 
-</body>
- 
-</html>
- 
+    
